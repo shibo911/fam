@@ -121,3 +121,8 @@ A verify.py script is included to validate:
    data/
    └── raw/
        └── output_file.csv
+```
+
+About the Author
+----------------
+- Shivang Agrahari — prefinal year student at IIIT Lucknow
